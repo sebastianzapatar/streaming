@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eiatwitter",
+  "private_key_id": "f06ec770aad5d4ecf4b134a3628b22aece06e24e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClFSc/st5X6GGZ\nZVT3t1sCUJYPK0GgBR1TcE2LdQ43kODpe+jGVQusR/SeLC9T26qSfNfT6ZiWraYK\n3qkmvv/XhAzMNn7fsGg1EnS8tMsZ1qms0yPv0+p/Q9MM1kwXx9Oo4sVl3SDZmTzW\nphboer/TV6u4uey5udkej14e8tQdsF+pqvX8W5QKaklG2jtoOvZ5RkBU9SDgAuEZ\nZ1Zp5x+vJoYdmUmtx7OvK7ajjdMD3gVsHg6MAewqlMK8hYyZHzxIpR1OoH4myzAh\ndUPlUlLqLMjBrls2YglzG0rFUjoLSI8Bs0OXM3dN9tir5EUJI+T+2JYn++gffOBR\nT4ICGNtrAgMBAAECggEAC01O8hf7YUuvaZKb8MJfWzcMMalVpVskSQLzyXvv8hLx\nAFszh7yT1NgvoafxwjfUTjzOLpvGuW4rDix0qoqXYSMRGJFp5Jj4ZsXG3efczdM6\nAPM1pHo+4DaoW4UiZtsPR806vtYW+n7OFlNUVyyW4c/AmcrfhPmkfpNJ2iw9ecjD\nRUhCFC0tTtHASMaz/c9Req5uexSzkGqrXvn9tJK2f7GKyFw3fPmepYm+jLAXNoSg\nk9rhGVJcNkmTxE18We49YY57RLF+l79ooU4nI9nSvWgpM8eTVUNDYvbzw7P7Uepv\nqTjaconzrtnYtde30D++/TqjVVy5VaomBX1EOrBYfQKBgQDoSUcoHLjYfbUUT0XE\nG49WuyBx+UK+FhmsuWFv845m8IT2MkOlU9n0nEqohiLmUWLL0O8tOur60MoJjcDp\nbcgdeqS5RfAS7IOBXxz8w7gVRaQ7NwCUsv6bZVewcpx9si/Os+UL0ReAoop/8Nom\nJ9vWYq5HkvPBDwj0yKfedxdiXQKBgQC174gjPgn53URuHdFNAFmeR0IHq4k7GYJw\nrL4TWiCrckwt81KIFpPgYqY+ncG7L3/yGOOba+ExutY8bW319krOmIdu0SioPptO\nENtFiwF3+BtZ8CfgxKUwDyIS/y9lfvK4Fp9KDpD9zaew0GRa4rbHgqdvs/s6TGaC\nxX0LL/zoZwKBgQC76hwQjTvUl82YApF0Fr+c8IFM8tNVp9dZbhcvVB+Nk2JdMUic\nRPt78bxMHUe6f3inXf0/3/wcsC/iDrVToiZUAtWjtLqE9KVmUaXHriYLv20fIl3r\n7eofmJqZ+f4ziaU3WT0glCSpQdU9r4ErgO9NvkMzT+S1+A3MyU9Un49hWQKBgBVN\nuQk3aH+jkzG5uBpmIhhQi8DOK0GKWSXMdG1brlulBJqU1WMuEZ7CrmjCnD7I7xhw\nJaa7WSEzmYZ14dxdPKE4ZxNo1nPs8M6RVrur7T4ZBUrgviqpnBYmj3zd+LTPyqgX\nrgtD7WJqxGoF3NpvlauC9wwzbQWEkLRbX6sBsYGdAoGBAImV7p57eoFCdsjlgqXE\nGnFmmghfY3ErxkGI3TzTh7OimehBUmBegXvMku/PouT8PrZ9ANJM/TU6ensrjuqI\nqbId5oXMccUZHwk8J2Q3NMq8p4xBJMJD/Q9DCbyKWaBrVaCHuZ6uSB9JV4jfuPx9\nfMNOEfBRI9ZqtCr15wux//HP\n-----END PRIVATE KEY-----\n",
+  "client_email": "twitter-eia@eiatwitter.iam.gserviceaccount.com",
+  "client_id": "103020520034160085985",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twitter-eia%40eiatwitter.iam.gserviceaccount.com"
+}
